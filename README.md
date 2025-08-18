@@ -27,7 +27,7 @@
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
   <img width="12" />
   
-  <!-- OOPs (no direct icon, using code/algorithm icon as placeholder) -->
+  <!-- OOPs (generic programming icon as placeholder) -->
   <img src="https://cdn-icons-png.flaticon.com/512/2965/2965358.png" height="60" alt="oops logo" />
   <img width="12" />
   
@@ -41,6 +41,10 @@
   
   <!-- Bootstrap -->
   <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo" />
+  <img width="12" />
+  
+  <!-- Spring Boot -->
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="springboot logo" />
 </div>
 
 
