@@ -1,5 +1,12 @@
-<h1 align="center">Hi, I'm Prince Biswas</h1>
-<h3 align="center">AWS Cloud &amp; DevOps Engineer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00577B&height=180&section=header&text=Prince%20Biswas&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Prince Biswas" />
+</p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1E3C72,50:2A5298,100:89CFF0&height=110&section=header&text=AWS%20Cloud%20and%20DevOps%20Engineer&fontSize=30&fontColor=ffffff&fontAlignY=50" alt="AWS Cloud &amp; DevOps Engineer" />
+</p>
+
 
 <!-- ========== TYPING HEADLINE ========== -->
 <p align="center">
